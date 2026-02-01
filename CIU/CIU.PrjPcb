@@ -137,23 +137,6 @@ GenerateClassCluster=0
 DocumentUniqueId=VKKJKIGY
 
 [Document6]
-DocumentPath=USB.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UFGSGCUT
-
-[Document7]
 DocumentPath=CIU.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,24 +153,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PKNBLLOD
 
-[Document8]
-DocumentPath=Current_Sense.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=YJUYQIWS
-
-[Document9]
+[Document7]
 DocumentPath=Large_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,7 +170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHPVVOFN
 
-[Document10]
+[Document8]
 DocumentPath=STlink.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +187,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDZKROSV
 
-[Document11]
+[Document9]
 DocumentPath=Can_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +204,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HXMCAXLX
 
-[Document12]
+[Document10]
 DocumentPath=..\SamacSys.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -255,7 +221,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MPRJBCLL
 
-[Document13]
+[Document11]
 DocumentPath=..\SamacSys.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -272,7 +238,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NGLTGAHM
 
-[Document14]
+[Document12]
 DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -289,7 +255,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -306,7 +272,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=BIGGG.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
