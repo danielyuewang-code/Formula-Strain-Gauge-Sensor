@@ -1,0 +1,132 @@
+Add component: Footprint Not Found CAPC1608X90N
+Add component: Footprint Not Found CAPC1608X90N
+Add component: Footprint Not Found CAPC1608X90N
+Add component: Footprint Not Found CAPC1608X90N
+Add component: Footprint Not Found CAPC1608X90N
+Add component: Footprint Not Found GRM18x
+Add component: Footprint Not Found CAPC1608X90N
+Add component: Footprint Not Found CAPC1608X90N
+Add component: Footprint Not Found CAPC1608X90N
+Add component: Footprint Not Found CAPC1608X90N
+Add component: Footprint Not Found CAPC1608X90N
+Add component: Footprint Not Found CAPC1608X90N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found DIOM5436X330N
+Add component: Footprint Not Found BEADC2012X105N
+Added Component: Designator=IC5(SOIC8_4P9X3P9MC_MCH)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ATA6560-GAQW-N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ata6560-gaqw-n/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://mouser.componentsearchengine.com/Datasheets/1/ATA6560-GAQW-N.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ATA6560-GAQW-N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-ATA6560-GAQW-N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATA6560-GAQW-N?qs=y6ZabgHbY%252By0WOzqKXUktg%3D%3D"; VariantName = "[No Variations]"
+Add component: Footprint Not Found HDRV5W64P0X254_1X5_1270X254X854P
+Add component: Footprint Not Found LEDM1620X150N
+Add component: Footprint Not Found RESC1608X55N
+Add component: Footprint Not Found RESC1608X55N
+Add component: Footprint Not Found RESC1608X55N
+Add component: Footprint Not Found RESC1608X55N
+Add component: Footprint Not Found RESC2012X60N
+Add component: Footprint Not Found ERJP03_PA3_(0603)
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C35-1
+Add Pin To Net: Unknown Pin: Pin C35-2
+Add Pin To Net: Unknown Pin: Pin D3_0-1
+Add Pin To Net: Unknown Pin: Pin D3_0-2
+Add Pin To Net: Unknown Pin: Pin D3_1-1
+Add Pin To Net: Unknown Pin: Pin D3_1-2
+Add Pin To Net: Unknown Pin: Pin D3_2-1
+Add Pin To Net: Unknown Pin: Pin D3_2-2
+Add Pin To Net: Unknown Pin: Pin D3_3-1
+Add Pin To Net: Unknown Pin: Pin D3_3-2
+Add Pin To Net: Unknown Pin: Pin D3_4-1
+Add Pin To Net: Unknown Pin: Pin D3_4-2
+Add Pin To Net: Unknown Pin: Pin D3_5-1
+Add Pin To Net: Unknown Pin: Pin D3_5-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin FB1-1
+Add Pin To Net: Unknown Pin: Pin FB1-2
+Added Pin To Net: NetName=CAN1_TX Pin=IC5-1
+Added Pin To Net: NetName=GND Pin=IC5-2
+Added Pin To Net: NetName=D+5V Pin=IC5-3
+Added Pin To Net: NetName=CAN1_RX Pin=IC5-4
+Added Pin To Net: NetName=NetCAN_L_1 Pin=IC5-6
+Added Pin To Net: NetName=NetCAN_H_1 Pin=IC5-7
+Added Pin To Net: NetName=GND Pin=IC5-8
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Class Member: Failed to add class member : Component C1 1u
+Add Class Member: Failed to add class member : Component C2 1u
+Add Class Member: Failed to add class member : Component C3 1u
+Add Class Member: Failed to add class member : Component C4 1u
+Add Class Member: Failed to add class member : Component C5 1u
+Add Class Member: Failed to add class member : Component C6 10u
+Add Class Member: Failed to add class member : Component C7 1u
+Add Class Member: Failed to add class member : Component C8 8p
+Add Class Member: Failed to add class member : Component C9 8p
+Add Class Member: Failed to add class member : Component C10 2u2
+Add Class Member: Failed to add class member : Component C11 2u2
+Add Class Member: Failed to add class member : Component C35 0.1u
+Add Class Member: Failed to add class member : Component D3_0 (D3) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D3_1 (D3) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D3_2 (D3) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D3_3 (D3) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D3_4 (D3) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D3_5 (D3) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D5 0.22 V 1A
+Add Class Member: Failed to add class member : Component FB1 ferrite bead 0805
+Added Member To Class: ClassName=Can_Interface Member=Component IC5 ATA6560-GAQW-N
+Add Class Member: Failed to add class member : Component J3 61300511121
+Add Class Member: Failed to add class member : Component LED3 SML-D12P8WT86C
+Add Class Member: Failed to add class member : Component R3 10k
+Add Class Member: Failed to add class member : Component R4 10k
+Add Class Member: Failed to add class member : Component R5 0
+Add Class Member: Failed to add class member : Component R6 0
+Add Class Member: Failed to add class member : Component R17 56
+Add Class Member: Failed to add class member : Component R24 60.4
