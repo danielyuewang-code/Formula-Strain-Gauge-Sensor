@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [smol.PrjPcb]
+   Generated File[smol-Plated.TXT]
+   Generated File[smol.LDP]
+   Generated File[smol.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:34:54 PM On 2026-02-03
