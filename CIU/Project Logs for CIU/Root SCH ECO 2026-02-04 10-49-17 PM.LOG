@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=IC5 Old Footprint=SOIC8_4P9X3P9MC_MCH New Footprint=SOIC127P600X175-8N
+Change Component Comment: Designator=IC5 Old Comment= New Comment=ATA6560-GAQW-N
+Change Component Designator: OldDesignator=LED3 NewDesignator=D2 LED
+Modified Rule: Name=Schematic Routing Via Style
+Modified Rule: Name=Schematic Width Constraint
+Change Pin Designator/Name:  Old Designator=U1A-8 Old Name=PC0 New Designator =PB0 New Name=26
+Change Pin Designator/Name:  Old Designator=U1A-9 Old Name=PC1 New Designator =PC5 New Name=25
+Change Pin Designator/Name:  Old Designator=U1A-10 Old Name=PC2 New Designator =PC4 New Name=24
+Change Pin Designator/Name:  Old Designator=U1A-11 Old Name=PC3 New Designator =PA7 New Name=23
+Change Pin Designator/Name:  Old Designator=U1A-21 Old Name=PA5 New Designator =PC0 New Name=8
+Change Pin Designator/Name:  Old Designator=U1A-22 Old Name=PA6 New Designator =PC1 New Name=9
+Change Pin Designator/Name:  Old Designator=U1A-23 Old Name=PA7 New Designator =PC2 New Name=10
+Change Pin Designator/Name:  Old Designator=U1A-24 Old Name=PC4 New Designator =PA6 New Name=22
+Change Pin Designator/Name:  Old Designator=U1A-25 Old Name=PC5 New Designator =PA5 New Name=21
+Change Pin Designator/Name:  Old Designator=U1A-26 Old Name=PB0 New Designator =PC3 New Name=11

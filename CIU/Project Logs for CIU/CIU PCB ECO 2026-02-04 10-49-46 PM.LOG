@@ -1,0 +1,361 @@
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=D+5V Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=D+5V Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=D+5V Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=D+5V Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=D+5V Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=D+3.3V Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=D+3.3V Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=D+3.3V Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C22_0-1
+Removed Pin From Net: NetName=CH0_IN_FLT Pin=C22_0-2
+Removed Pin From Net: NetName=GND Pin=C22_1-1
+Removed Pin From Net: NetName=CH1_IN_FLT Pin=C22_1-2
+Removed Pin From Net: NetName=GND Pin=C22_2-1
+Removed Pin From Net: NetName=CH2_IN_FLT Pin=C22_2-2
+Removed Pin From Net: NetName=GND Pin=C22_3-1
+Removed Pin From Net: NetName=CH3_IN_FLT Pin=C22_3-2
+Removed Pin From Net: NetName=GND Pin=C22_4-1
+Removed Pin From Net: NetName=CH4_IN_FLT Pin=C22_4-2
+Removed Pin From Net: NetName=GND Pin=C22_5-1
+Removed Pin From Net: NetName=CH5_IN_FLT Pin=C22_5-2
+Removed Pin From Net: NetName=GND Pin=C22_6-1
+Removed Pin From Net: NetName=GND Pin=C22_7-1
+Removed Pin From Net: NetName=GND Pin=C23-1
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=D+5V Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=D+5V Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=D+5V Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=D+5V Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=D+5V Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=D+5V Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=D+5V Pin=C32-2
+Removed Pin From Net: NetName=GND Pin=C33-1
+Removed Pin From Net: NetName=D+5V Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=D3_6-1
+Removed Pin From Net: NetName=GND Pin=D3_7-1
+Removed Pin From Net: NetName=D+5V Pin=D4-1
+Removed Pin From Net: NetName=D+5V Pin=D5-1
+Removed Pin From Net: NetName=D+3.3V Pin=D6-1
+Removed Pin From Net: NetName=D+3.3V_JTAG Pin=D6-2
+Removed Pin From Net: NetName=D+5V Pin=F2-1
+Removed Pin From Net: NetName=D+5V Pin=F3-1
+Removed Pin From Net: NetName=D+5V Pin=F4-1
+Removed Pin From Net: NetName=D+5V Pin=F5-1
+Removed Pin From Net: NetName=D+5V Pin=F6-1
+Removed Pin From Net: NetName=D+5V Pin=F7-1
+Removed Pin From Net: NetName=D+5V Pin=F8-1
+Removed Pin From Net: NetName=D+5V Pin=F9-1
+Removed Pin From Net: NetName=GND Pin=IC1-3
+Removed Pin From Net: NetName=GND Pin=IC1-6
+Removed Pin From Net: NetName=GND Pin=IC3-1
+Removed Pin From Net: NetName=D+5V Pin=IC3-3
+Removed Pin From Net: NetName=D+3.3V Pin=IC3-4
+Removed Pin From Net: NetName=GND Pin=IC4-1
+Removed Pin From Net: NetName=GND Pin=IC4-2
+Removed Pin From Net: NetName=GND Pin=J1-A1-B12
+Removed Pin From Net: NetName=GND Pin=J1-B1-A12
+Removed Pin From Net: NetName=D+5V Pin=L1-2
+Removed Pin From Net: NetName=D+3.3V Pin=LED1-2
+Removed Pin From Net: NetName=D+5V Pin=LED2-2
+Removed Pin From Net: NetName=D+5V Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=CH0_IN_FLT Pin=R18_0-1
+Removed Pin From Net: NetName=CH1_IN_FLT Pin=R18_1-1
+Removed Pin From Net: NetName=CH2_IN_FLT Pin=R18_2-1
+Removed Pin From Net: NetName=CH3_IN_FLT Pin=R18_3-1
+Removed Pin From Net: NetName=CH4_IN_FLT Pin=R18_4-1
+Removed Pin From Net: NetName=CH5_IN_FLT Pin=R18_5-1
+Removed Pin From Net: NetName=GND Pin=R19_0-1
+Removed Pin From Net: NetName=CH0_IN_FLT Pin=R19_0-2
+Removed Pin From Net: NetName=GND Pin=R19_1-1
+Removed Pin From Net: NetName=CH1_IN_FLT Pin=R19_1-2
+Removed Pin From Net: NetName=GND Pin=R19_2-1
+Removed Pin From Net: NetName=CH2_IN_FLT Pin=R19_2-2
+Removed Pin From Net: NetName=GND Pin=R19_3-1
+Removed Pin From Net: NetName=CH3_IN_FLT Pin=R19_3-2
+Removed Pin From Net: NetName=GND Pin=R19_4-1
+Removed Pin From Net: NetName=CH4_IN_FLT Pin=R19_4-2
+Removed Pin From Net: NetName=GND Pin=R19_5-1
+Removed Pin From Net: NetName=CH5_IN_FLT Pin=R19_5-2
+Removed Pin From Net: NetName=GND Pin=R19_6-1
+Removed Pin From Net: NetName=GND Pin=R19_7-1
+Removed Pin From Net: NetName=GND Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=R23-2
+Removed Pin From Net: NetName=GND Pin=S-10
+Removed Pin From Net: NetName=GND Pin=S-11
+Removed Pin From Net: NetName=GND Pin=S-12
+Removed Pin From Net: NetName=GND Pin=S-13
+Removed Pin From Net: NetName=GND Pin=S-14
+Removed Pin From Net: NetName=GND Pin=S-15
+Removed Pin From Net: NetName=GND Pin=S-16
+Removed Pin From Net: NetName=GND Pin=S-17
+Removed Pin From Net: NetName=GND Pin=S-20
+Removed Pin From Net: NetName=D+5V Pin=S-21
+Removed Pin From Net: NetName=GND Pin=S-24
+Removed Pin From Net: NetName=GND Pin=S-25
+Removed Pin From Net: NetName=D+5V Pin=S-26
+Removed Pin From Net: NetName=GND Pin=TVS1-1
+Removed Pin From Net: NetName=GND Pin=U2-4
+Removed Member From Class: ClassName=0 Member=C22_0
+Removed Member From Class: ClassName=1 Member=C22_1
+Removed Member From Class: ClassName=2 Member=C22_2
+Removed Member From Class: ClassName=3 Member=C22_3
+Removed Member From Class: ClassName=4 Member=C22_4
+Removed Member From Class: ClassName=5 Member=C22_5
+Removed Member From Class: ClassName=STlink Member=D6
+Removed Member From Class: ClassName=MCU Member=R1
+Removed Member From Class: ClassName=MCU Member=R2
+Removed Member From Class: ClassName=0 Member=R18_0
+Removed Member From Class: ClassName=1 Member=R18_1
+Removed Member From Class: ClassName=2 Member=R18_2
+Removed Member From Class: ClassName=3 Member=R18_3
+Removed Member From Class: ClassName=4 Member=R18_4
+Removed Member From Class: ClassName=5 Member=R18_5
+Removed Member From Class: ClassName=0 Member=R19_0
+Removed Member From Class: ClassName=1 Member=R19_1
+Removed Member From Class: ClassName=2 Member=R19_2
+Removed Member From Class: ClassName=3 Member=R19_3
+Removed Member From Class: ClassName=4 Member=R19_4
+Removed Member From Class: ClassName=5 Member=R19_5
+Removed Member From Class: ClassName=input_conditioner Member=6
+Removed Member From Class: ClassName=input_conditioner Member=7
+Added Component: Designator=CAN_H(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CAN_L(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CH0_IN(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CH1_IN(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CH2_IN(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CH3_IN(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CH4_IN(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CH5_IN(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CH0_IN_FLT Pin=CH0_IN-1
+Added Pin To Net: NetName=CH1_IN_FLT Pin=CH1_IN-1
+Added Pin To Net: NetName=CH2_IN_FLT Pin=CH2_IN-1
+Added Pin To Net: NetName=CH3_IN_FLT Pin=CH3_IN-1
+Added Pin To Net: NetName=CH4_IN_FLT Pin=CH4_IN-1
+Added Pin To Net: NetName=CH5_IN_FLT Pin=CH5_IN-1
+Added Pin To Net: NetName=CH0_IN_FLT Pin=D3_0-2
+Added Pin To Net: NetName=CH1_IN_FLT Pin=D3_1-2
+Added Pin To Net: NetName=CH2_IN_FLT Pin=D3_2-2
+Added Pin To Net: NetName=CH3_IN_FLT Pin=D3_3-2
+Added Pin To Net: NetName=CH4_IN_FLT Pin=D3_4-2
+Added Pin To Net: NetName=CH5_IN_FLT Pin=D3_5-2
+Added Pin To Net: NetName=D+3.3V Pin=D5-1
+Added Pin To Net: NetName=D+3.3V_JTAG Pin=D5-2
+Added Pin To Net: NetName=NetR3_1 Pin=J3-1
+Change Net Name : Old Net Name=NetLED3_1 New Net Name=NetD2 LED_1
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=NetD2 LED_2
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NRST
+Added Pin To Net: NetName=NetCAN_H_1 Pin=CAN_H-1
+Added Pin To Net: NetName=NetCAN_H_1 Pin=IC5-7
+Added Pin To Net: NetName=NetCAN_H_1 Pin=R24-2
+Added Net: Name=NetCAN_H_1
+Added Pin To Net: NetName=NetCAN_L_1 Pin=CAN_L-1
+Added Pin To Net: NetName=NetCAN_L_1 Pin=IC5-6
+Added Pin To Net: NetName=NetCAN_L_1 Pin=R24-1
+Added Net: Name=NetCAN_L_1
+Added Class: Name=Conditioner_Array
+Added Member To Class: ClassName=Can_Interface Member=Component CAN_H 5003
+Added Member To Class: ClassName=Can_Interface Member=Component CAN_L 5003
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
