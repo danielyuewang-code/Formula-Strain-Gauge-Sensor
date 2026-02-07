@@ -1,0 +1,100 @@
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Component Footprint: Designator=R3 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R4 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R5 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R6 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R?_0 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R?_1 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R?_2 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R?_3 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R?_4 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R?_5 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Designator: OldDesignator=R?_0 NewDesignator=R_0
+Change Component Designator: OldDesignator=R?_1 NewDesignator=R_1
+Change Component Designator: OldDesignator=R?_2 NewDesignator=R_2
+Change Component Designator: OldDesignator=R?_3 NewDesignator=R_3
+Change Component Designator: OldDesignator=R?_4 NewDesignator=R_4
+Change Component Designator: OldDesignator=R?_5 NewDesignator=R_5
+Add component: Footprint Not Found CAPC1608X90X35LL15T15
+Add component: Footprint Not Found DIOM5436X330N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found BEADC2012X105N
+Add component: Footprint Not Found HDRV5W64P0X254_1X5_1270X254X854P
+Add component: Footprint Not Found LEDM1620X150N
+Add component: Footprint Not Found RESC2012X60N
+Add component: Footprint Not Found ERJP03_PA3_(0603)
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C?_0-1
+Add Pin To Net: Unknown Pin: Pin C?_0-2
+Add Pin To Net: Unknown Pin: Pin C?_1-1
+Add Pin To Net: Unknown Pin: Pin C?_1-2
+Add Pin To Net: Unknown Pin: Pin C?_2-1
+Add Pin To Net: Unknown Pin: Pin C?_2-2
+Add Pin To Net: Unknown Pin: Pin C?_3-1
+Add Pin To Net: Unknown Pin: Pin C?_3-2
+Add Pin To Net: Unknown Pin: Pin C?_4-1
+Add Pin To Net: Unknown Pin: Pin C?_4-2
+Add Pin To Net: Unknown Pin: Pin C?_5-1
+Add Pin To Net: Unknown Pin: Pin C?_5-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D?_0-1
+Add Pin To Net: Unknown Pin: Pin D?_0-2
+Add Pin To Net: Unknown Pin: Pin D?_1-1
+Add Pin To Net: Unknown Pin: Pin D?_1-2
+Add Pin To Net: Unknown Pin: Pin D?_2-1
+Add Pin To Net: Unknown Pin: Pin D?_2-2
+Add Pin To Net: Unknown Pin: Pin D?_3-1
+Add Pin To Net: Unknown Pin: Pin D?_3-2
+Add Pin To Net: Unknown Pin: Pin D?_4-1
+Add Pin To Net: Unknown Pin: Pin D?_4-2
+Add Pin To Net: Unknown Pin: Pin D?_5-1
+Add Pin To Net: Unknown Pin: Pin D?_5-2
+Add Pin To Net: Unknown Pin: Pin FB1-1
+Add Pin To Net: Unknown Pin: Pin FB1-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Class Member: Failed to add class member : Component C6 10u
+Add Class Member: Failed to add class member : Component C?_0 (C?) Capacitor
+Add Class Member: Failed to add class member : Component C?_1 (C?) Capacitor
+Add Class Member: Failed to add class member : Component C?_2 (C?) Capacitor
+Add Class Member: Failed to add class member : Component C?_3 (C?) Capacitor
+Add Class Member: Failed to add class member : Component C?_4 (C?) Capacitor
+Add Class Member: Failed to add class member : Component C?_5 (C?) Capacitor
+Add Class Member: Failed to add class member : Component D5 0.22 V 1A
+Add Class Member: Failed to add class member : Component D?_0 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_1 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_2 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_3 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_4 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_5 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component FB1 ferrite bead 0805
+Add Class Member: Failed to add class member : Component J3 61300511121
+Add Class Member: Failed to add class member : Component LED3 SML-D12P8WT86C
+Add Class Member: Failed to add class member : Component R17 56
+Add Class Member: Failed to add class member : Component R24 120

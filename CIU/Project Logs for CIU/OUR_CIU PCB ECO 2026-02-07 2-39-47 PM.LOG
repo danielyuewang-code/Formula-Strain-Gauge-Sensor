@@ -1,0 +1,216 @@
+Removed Pin From Net: NetName=CH0_IN_FLT Pin=CH0_IN-1
+Removed Pin From Net: NetName=CH1_IN_FLT Pin=CH1_IN-1
+Removed Pin From Net: NetName=CH2_IN_FLT Pin=CH2_IN-1
+Removed Pin From Net: NetName=CH3_IN_FLT Pin=CH3_IN-1
+Removed Pin From Net: NetName=CH4_IN_FLT Pin=CH4_IN-1
+Removed Pin From Net: NetName=CH5_IN_FLT Pin=CH5_IN-1
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Change Footprint: Footprint Not Found CAPC1608X90X35LL15T15
+Add component: Footprint Not Found CAPC1608X90X35LL15T15
+Add component: Footprint Not Found DIOM5436X330N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found BEADC2012X105N
+Add component: Footprint Not Found HDRV5W64P0X254_1X5_1270X254X854P
+Add component: Footprint Not Found LEDM1620X150N
+Added Component: Designator=R3(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0603FR0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603fr-0710kl/yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0603FR0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603fr-0710kl/yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603jr-070rl/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/RC0603JR-070RL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603JR-070RL?qs=2cAdsCoAWRGWyPcuXgGiXQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603jr-070rl/yageo?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/RC0603JR-070RL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603JR-070RL?qs=2cAdsCoAWRGWyPcuXgGiXQ%3D%3D"; VariantName = "[No Variations]"
+Add component: Footprint Not Found RESC2012X60N
+Add component: Footprint Not Found ERJP03_PA3_(0603)
+Added Component: Designator=R?_0(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07340RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_1(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07340RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_2(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07340RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_3(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07340RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_4(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07340RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?_5(RESC1608X55X25LL10T15)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603FR-07340RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C?_0-1
+Add Pin To Net: Unknown Pin: Pin C?_0-2
+Add Pin To Net: Unknown Pin: Pin C?_1-1
+Add Pin To Net: Unknown Pin: Pin C?_1-2
+Add Pin To Net: Unknown Pin: Pin C?_2-1
+Add Pin To Net: Unknown Pin: Pin C?_2-2
+Add Pin To Net: Unknown Pin: Pin C?_3-1
+Add Pin To Net: Unknown Pin: Pin C?_3-2
+Add Pin To Net: Unknown Pin: Pin C?_4-1
+Add Pin To Net: Unknown Pin: Pin C?_4-2
+Add Pin To Net: Unknown Pin: Pin C?_5-1
+Add Pin To Net: Unknown Pin: Pin C?_5-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D?_0-1
+Add Pin To Net: Unknown Pin: Pin D?_1-1
+Add Pin To Net: Unknown Pin: Pin D?_2-1
+Add Pin To Net: Unknown Pin: Pin D?_3-1
+Add Pin To Net: Unknown Pin: Pin D?_4-1
+Add Pin To Net: Unknown Pin: Pin D?_5-1
+Add Pin To Net: Unknown Pin: Pin FB1-1
+Add Pin To Net: Unknown Pin: Pin FB1-2
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J3-3
+Add Pin To Net: Unknown Pin: Pin J3-4
+Add Pin To Net: Unknown Pin: Pin J3-5
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Added Pin To Net: NetName=NRST Pin=R3-1
+Added Pin To Net: NetName=D+3.3V Pin=R3-2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=NRST Pin=R5-2
+Added Pin To Net: NetName=D+3.3V Pin=R6-1
+Added Pin To Net: NetName=NetR4_1 Pin=R6-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Added Pin To Net: NetName=CH0_IN_FLT Pin=R?_0-1
+Added Pin To Net: NetName=CH1_IN_FLT Pin=R?_1-1
+Added Pin To Net: NetName=CH2_IN_FLT Pin=R?_2-1
+Added Pin To Net: NetName=CH3_IN_FLT Pin=R?_3-1
+Added Pin To Net: NetName=CH4_IN_FLT Pin=R?_4-1
+Added Pin To Net: NetName=CH5_IN_FLT Pin=R?_5-1
+Added Pin To Net: NetName=in_UNFLT_0 Pin=CH0_IN-1
+Added Pin To Net: NetName=in_UNFLT_0 Pin=R?_0-2
+Added Net: Name=in_UNFLT_0
+Added Pin To Net: NetName=in_UNFLT_1 Pin=CH1_IN-1
+Added Pin To Net: NetName=in_UNFLT_1 Pin=R?_1-2
+Added Net: Name=in_UNFLT_1
+Added Pin To Net: NetName=in_UNFLT_2 Pin=CH2_IN-1
+Added Pin To Net: NetName=in_UNFLT_2 Pin=R?_2-2
+Added Net: Name=in_UNFLT_2
+Added Pin To Net: NetName=in_UNFLT_3 Pin=CH3_IN-1
+Added Pin To Net: NetName=in_UNFLT_3 Pin=R?_3-2
+Added Net: Name=in_UNFLT_3
+Added Pin To Net: NetName=in_UNFLT_4 Pin=CH4_IN-1
+Added Pin To Net: NetName=in_UNFLT_4 Pin=R?_4-2
+Added Net: Name=in_UNFLT_4
+Added Pin To Net: NetName=in_UNFLT_5 Pin=CH5_IN-1
+Added Pin To Net: NetName=in_UNFLT_5 Pin=R?_5-2
+Added Net: Name=in_UNFLT_5
+Add Class Member: Failed to add class member : Component C6 10u
+Add Class Member: Failed to add class member : Component C?_0 (C?) Capacitor
+Add Class Member: Failed to add class member : Component C?_1 (C?) Capacitor
+Add Class Member: Failed to add class member : Component C?_2 (C?) Capacitor
+Add Class Member: Failed to add class member : Component C?_3 (C?) Capacitor
+Add Class Member: Failed to add class member : Component C?_4 (C?) Capacitor
+Add Class Member: Failed to add class member : Component C?_5 (C?) Capacitor
+Add Class Member: Failed to add class member : Component D5 0.22 V 1A
+Add Class Member: Failed to add class member : Component D?_0 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_1 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_2 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_3 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_4 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_5 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component FB1 ferrite bead 0805
+Add Class Member: Failed to add class member : Component J3 61300511121
+Add Class Member: Failed to add class member : Component LED3 SML-D12P8WT86C
+Added Member To Class: ClassName=MCU Member=Component R3 10k
+Added Member To Class: ClassName=MCU Member=Component R4 10k
+Added Member To Class: ClassName=MCU Member=Component R5 0
+Added Member To Class: ClassName=MCU Member=Component R6 0
+Add Class Member: Failed to add class member : Component R17 56
+Add Class Member: Failed to add class member : Component R24 120
+Added Member To Class: ClassName=0 Member=Component R?_0 (R?) 340
+Added Member To Class: ClassName=1 Member=Component R?_1 (R?) 340
+Added Member To Class: ClassName=2 Member=Component R?_2 (R?) 340
+Added Member To Class: ClassName=3 Member=Component R?_3 (R?) 340
+Added Member To Class: ClassName=4 Member=Component R?_4 (R?) 340
+Added Member To Class: ClassName=5 Member=Component R?_5 (R?) 340
