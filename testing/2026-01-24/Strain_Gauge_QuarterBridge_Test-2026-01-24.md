@@ -22,7 +22,7 @@ Verify quarter-bridge strain gauge readings, op-amp amplification, and ESP32 ADC
 - MCU: ESP32-WROOM-32D
 - ADC Pin: GPIO32
 
-**See Breakboard Setup:**
+**See Breadboard Setup:**
 ![Breadboard setup](testing_images/breadboard-setup.jpg)
 
 ### 2.2 Signal Chain
