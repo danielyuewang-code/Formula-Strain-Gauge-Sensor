@@ -1,0 +1,92 @@
+Change Component Footprint: Designator=C1 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C2 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C3 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C4 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C5 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C6 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C7 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C8 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C9 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C10 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C11 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C13 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C22_0 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C22_1 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C22_2 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C22_3 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C22_4 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C22_5 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=C35 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=R3 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=R4 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=R5 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=R6 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=R_0 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=R_1 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=R_2 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=R_3 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=R_4 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=R_5 Old Footprint=FP-RC1608-IPC_A New Footprint=FP-RC1608-IPC_A
+Change Component Footprint: Designator=R17 Old Footprint=FP-RC2012-IPC_A New Footprint=FP-RC2012-IPC_A
+Change Component Footprint: Designator=J3 Old Footprint=FP-TSW-106-22-G-S-MFG New Footprint=FP-TSW-106-22-G-S-MFG
+Add component: Footprint Not Found DIOM5436X330N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found BEADC2012X105N
+Add component: Footprint Not Found LEDM1620X150N
+Add component: Footprint Not Found ERJP03_PA3_(0603)
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Add Pin To Net: Unknown Pin: Pin C19-1
+Add Pin To Net: Unknown Pin: Pin C19-2
+Add Pin To Net: Unknown Pin: Pin C20-1
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D?_0-1
+Add Pin To Net: Unknown Pin: Pin D?_0-2
+Add Pin To Net: Unknown Pin: Pin D?_1-1
+Add Pin To Net: Unknown Pin: Pin D?_1-2
+Add Pin To Net: Unknown Pin: Pin D?_2-1
+Add Pin To Net: Unknown Pin: Pin D?_2-2
+Add Pin To Net: Unknown Pin: Pin D?_3-1
+Add Pin To Net: Unknown Pin: Pin D?_3-2
+Add Pin To Net: Unknown Pin: Pin D?_4-1
+Add Pin To Net: Unknown Pin: Pin D?_4-2
+Add Pin To Net: Unknown Pin: Pin D?_5-1
+Add Pin To Net: Unknown Pin: Pin D?_5-2
+Add Pin To Net: Unknown Pin: Pin FB1-1
+Add Pin To Net: Unknown Pin: Pin FB1-2
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Class Member: Failed to add class member : Component C12 4.7uF
+Add Class Member: Failed to add class member : Component C14 22 uF
+Add Class Member: Failed to add class member : Component C15 1uF
+Add Class Member: Failed to add class member : Component C16 0.1uF
+Add Class Member: Failed to add class member : Component C17 22uF
+Add Class Member: Failed to add class member : Component C19 0.1uF
+Add Class Member: Failed to add class member : Component C20 0.1uF
+Add Class Member: Failed to add class member : Component D5 0.22 V 1A
+Add Class Member: Failed to add class member : Component D?_0 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_1 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_2 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_3 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_4 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D?_5 (D?) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component FB1 ferrite bead 0805
+Add Class Member: Failed to add class member : Component LED3 SML-D12P8WT86C
+Add Class Member: Failed to add class member : Component R24 120
