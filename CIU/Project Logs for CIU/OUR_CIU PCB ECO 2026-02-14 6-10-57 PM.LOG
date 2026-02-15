@@ -1,0 +1,77 @@
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC2012-IPC_A
+Change Footprint: Footprint Not Found FP-TSM-106-01-T-SH-A-MFG
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found BEADC2012X105N
+Add component: Footprint Not Found LEDM1620X150N
+Add component: Footprint Not Found ERJP03_PA3_(0603)
+Add Pin To Net: Unknown Pin: Pin C11_0-1
+Add Pin To Net: Unknown Pin: Pin C11_0-2
+Add Pin To Net: Unknown Pin: Pin C11_1-1
+Add Pin To Net: Unknown Pin: Pin C11_1-2
+Add Pin To Net: Unknown Pin: Pin C11_2-1
+Add Pin To Net: Unknown Pin: Pin C11_2-2
+Add Pin To Net: Unknown Pin: Pin C11_3-1
+Add Pin To Net: Unknown Pin: Pin C11_3-2
+Add Pin To Net: Unknown Pin: Pin C11_4-1
+Add Pin To Net: Unknown Pin: Pin C11_4-2
+Add Pin To Net: Unknown Pin: Pin C11_5-1
+Add Pin To Net: Unknown Pin: Pin C11_5-2
+Add Pin To Net: Unknown Pin: Pin D1_0-1
+Add Pin To Net: Unknown Pin: Pin D1_0-2
+Add Pin To Net: Unknown Pin: Pin D1_1-1
+Add Pin To Net: Unknown Pin: Pin D1_1-2
+Add Pin To Net: Unknown Pin: Pin D1_2-1
+Add Pin To Net: Unknown Pin: Pin D1_2-2
+Add Pin To Net: Unknown Pin: Pin D1_3-1
+Add Pin To Net: Unknown Pin: Pin D1_3-2
+Add Pin To Net: Unknown Pin: Pin D1_4-1
+Add Pin To Net: Unknown Pin: Pin D1_4-2
+Add Pin To Net: Unknown Pin: Pin D1_5-1
+Add Pin To Net: Unknown Pin: Pin D1_5-2
+Add Pin To Net: Unknown Pin: Pin FB1-1
+Add Pin To Net: Unknown Pin: Pin FB1-2
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Class Member: Failed to add class member : Component C11_0 (C11) Capacitor
+Add Class Member: Failed to add class member : Component C11_1 (C11) Capacitor
+Add Class Member: Failed to add class member : Component C11_2 (C11) Capacitor
+Add Class Member: Failed to add class member : Component C11_3 (C11) Capacitor
+Add Class Member: Failed to add class member : Component C11_4 (C11) Capacitor
+Add Class Member: Failed to add class member : Component C11_5 (C11) Capacitor
+Add Class Member: Failed to add class member : Component D1_0 (D1) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D1_1 (D1) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D1_2 (D1) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D1_3 (D1) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D1_4 (D1) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D1_5 (D1) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component FB1 ferrite bead 0805
+Add Class Member: Failed to add class member : Component LED3 SML-D12P8WT86C
+Add Class Member: Failed to add class member : Component R24 120
