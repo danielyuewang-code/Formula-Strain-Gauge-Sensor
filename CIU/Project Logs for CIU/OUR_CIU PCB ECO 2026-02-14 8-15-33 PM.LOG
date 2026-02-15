@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=CH0_IN_FLT Pin=U1-8
+Removed Pin From Net: NetName=CH1_IN_FLT Pin=U1-9
+Removed Pin From Net: NetName=CH2_IN_FLT Pin=U1-10
+Removed Pin From Net: NetName=CH3_IN_FLT Pin=U1-11
+Removed Pin From Net: NetName=CH4_IN_FLT Pin=U1-24
+Removed Pin From Net: NetName=CH5_IN_FLT Pin=U1-25
+Change Component Designator: OldDesignator=1 NewDesignator=J1_Designator1
+Change Component Designator: OldDesignator=2 NewDesignator=J1_Designator2
+Change Component Designator: OldDesignator=3 NewDesignator=J1_Designator3
+Change Component Designator: OldDesignator=4 NewDesignator=J1_Designator4
+Change Component Designator: OldDesignator=5 NewDesignator=J1_Designator5
+Change Component Designator: OldDesignator=6 NewDesignator=J1_Designator6
+Added Pin To Net: NetName=CH0_IN_FLT Pin=U1-20
+Added Pin To Net: NetName=CH1_IN_FLT Pin=U1-21
+Added Pin To Net: NetName=CH2_IN_FLT Pin=U1-22
+Added Pin To Net: NetName=CH3_IN_FLT Pin=U1-23
+Added Pin To Net: NetName=CH5_IN_FLT Pin=U1-26
+Added Pin To Net: NetName=CH4_IN_FLT Pin=U1-27
