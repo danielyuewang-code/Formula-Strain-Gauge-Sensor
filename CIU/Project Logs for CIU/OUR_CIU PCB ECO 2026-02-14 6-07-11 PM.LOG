@@ -1,0 +1,101 @@
+Removed Member From Class: ClassName=Designator6 Member=J1_Designator1
+Removed Member From Class: ClassName=Designator4 Member=J1_Designator3
+Removed Member From Class: ClassName=Designator2 Member=J1_Designator5
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC1608-IPC_A
+Change Footprint: Footprint Not Found FP-RC2012-IPC_A
+Change Footprint: Footprint Not Found FP-TSM-106-01-T-SH-A-MFG
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found SOD2513X120N
+Add component: Footprint Not Found BEADC2012X105N
+Add component: Footprint Not Found LEDM1620X150N
+Add component: Footprint Not Found ERJP03_PA3_(0603)
+Add Pin To Net: Unknown Pin: Pin C11_0-1
+Add Pin To Net: Unknown Pin: Pin C11_0-2
+Add Pin To Net: Unknown Pin: Pin C11_1-1
+Add Pin To Net: Unknown Pin: Pin C11_1-2
+Add Pin To Net: Unknown Pin: Pin C11_2-1
+Add Pin To Net: Unknown Pin: Pin C11_2-2
+Add Pin To Net: Unknown Pin: Pin C11_3-1
+Add Pin To Net: Unknown Pin: Pin C11_3-2
+Add Pin To Net: Unknown Pin: Pin C11_4-1
+Add Pin To Net: Unknown Pin: Pin C11_4-2
+Add Pin To Net: Unknown Pin: Pin C11_5-1
+Add Pin To Net: Unknown Pin: Pin C11_5-2
+Add Pin To Net: Unknown Pin: Pin D1_0-1
+Add Pin To Net: Unknown Pin: Pin D1_0-2
+Add Pin To Net: Unknown Pin: Pin D1_1-1
+Add Pin To Net: Unknown Pin: Pin D1_1-2
+Add Pin To Net: Unknown Pin: Pin D1_2-1
+Add Pin To Net: Unknown Pin: Pin D1_2-2
+Add Pin To Net: Unknown Pin: Pin D1_3-1
+Add Pin To Net: Unknown Pin: Pin D1_3-2
+Add Pin To Net: Unknown Pin: Pin D1_4-1
+Add Pin To Net: Unknown Pin: Pin D1_4-2
+Add Pin To Net: Unknown Pin: Pin D1_5-1
+Add Pin To Net: Unknown Pin: Pin D1_5-2
+Add Pin To Net: Unknown Pin: Pin FB1-1
+Add Pin To Net: Unknown Pin: Pin FB1-2
+Add Pin To Net: Unknown Pin: Pin LED3-1
+Add Pin To Net: Unknown Pin: Pin LED3-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Added Member To Class: ClassName=MCU Member=Component C1 0.1u
+Added Member To Class: ClassName=MCU Member=Component C2 0.1u
+Added Member To Class: ClassName=MCU Member=Component C4 0.1u
+Added Member To Class: ClassName=MCU Member=Component C6 1u
+Added Member To Class: ClassName=MCU Member=Component C8 8p
+Added Member To Class: ClassName=MCU Member=Component C10 2u2
+Add Class Member: Failed to add class member : Component C11_0 (C11) Capacitor
+Add Class Member: Failed to add class member : Component C11_1 (C11) Capacitor
+Add Class Member: Failed to add class member : Component C11_2 (C11) Capacitor
+Add Class Member: Failed to add class member : Component C11_3 (C11) Capacitor
+Add Class Member: Failed to add class member : Component C11_4 (C11) Capacitor
+Add Class Member: Failed to add class member : Component C11_5 (C11) Capacitor
+Added Member To Class: ClassName=Designator Member=Component C14 CC0603MRX7R9BB104
+Added Member To Class: ClassName=Designator Member=Component C15 EEEFK1C221XP
+Added Member To Class: ClassName=Designator Member=Component C16 CC0603MRX7R9BB104
+Added Member To Class: ClassName=Designator Member=Component C17 CC0603KPX7R7BB105
+Added Member To Class: ClassName=Designator Member=Component C18 CC0603KPX7R7BB105
+Added Member To Class: ClassName=Designator Member=Component C19 CC0603KPX7R7BB105
+Added Member To Class: ClassName=Designator Member=Component C20 CC0603MRX7R9BB104
+Add Class Member: Failed to add class member : Component D1_0 (D1) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D1_1 (D1) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D1_2 (D1) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D1_3 (D1) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D1_4 (D1) DESD5V0U1BA-7
+Add Class Member: Failed to add class member : Component D1_5 (D1) DESD5V0U1BA-7
+Added Member To Class: ClassName=Designator Member=Component D3 SS34-E3/9AT
+Add Class Member: Failed to add class member : Component FB1 ferrite bead 0805
+Added Member To Class: ClassName=Designator2 Member=Component J1_Designator2 (J1) TSW-106-23-F-S
+Added Member To Class: ClassName=Designator4 Member=Component J1_Designator4 (J1) TSW-106-23-F-S
+Added Member To Class: ClassName=Designator6 Member=Component J1_Designator6 (J1) TSW-106-23-F-S
+Add Class Member: Failed to add class member : Component LED3 SML-D12P8WT86C
+Added Member To Class: ClassName=MCU Member=Component R3 0
+Added Member To Class: ClassName=MCU Member=Component R5 56
+Add Class Member: Failed to add class member : Component R24 120
+Added Member To Class: ClassName=Designator Member=Component U2 LM2596S-5.0/NOPB
+Added Member To Class: ClassName=Designator Member=Component U3 MIC5504-3.3YM5-TR
