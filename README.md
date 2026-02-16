@@ -8,7 +8,7 @@ This repository contains the Altium Designer PCB projects for strain gauge senso
 
 ## Project Structure
 
-### `/biggie` - Full-Featured MCU Board
+### `/CIU` - Full-Featured MCU Board
 The larger variant featuring a complete microcontroller solution for data acquisition and processing.
 - **biggie.PrjPcb** - Main Altium project file
 - **MCU.SchDoc** - Schematic design with MCU, signal conditioning, and power management
