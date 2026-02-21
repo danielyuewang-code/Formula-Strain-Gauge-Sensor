@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=D+12V Pin=C13-2
+Change Footprint: Footprint Not Found HDRV5W64P0X254_1X5_1270X254X854P
+Change Footprint: Footprint Not Found ERJP03_PA3_(0603)
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Added Component: Designator=C13(FP-RAD-TH-D_10_0_5-L_20_2-MFG)
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=D+12V Pin=C13-2
