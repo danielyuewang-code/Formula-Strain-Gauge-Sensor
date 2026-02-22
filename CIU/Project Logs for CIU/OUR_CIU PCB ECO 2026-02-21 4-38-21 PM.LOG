@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=1 Member=C11_0
+Removed Member From Class: ClassName=3 Member=D1_1
+Removed Member From Class: ClassName=5 Member=R7_0
+Change Footprint: Footprint Not Found HDRV5W64P0X254_1X5_1270X254X854P
+Change Footprint: Footprint Not Found ERJP03_PA3_(0603)
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Added Member To Class: ClassName=1 Member=Component C11_1 (C11) Capacitor
+Added Member To Class: ClassName=3 Member=Component D1_3 (D1) DESD5V0U1BA-7
+Added Member To Class: ClassName=5 Member=Component R7_5 (R7) 340
