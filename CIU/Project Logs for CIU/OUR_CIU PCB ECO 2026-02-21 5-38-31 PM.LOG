@@ -1,0 +1,19 @@
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Added Member To Class: ClassName=STlink Member=Component J3 TSW-105-05-G-S
+Added Member To Class: ClassName=MCU Member=Component R1 0
+Added Member To Class: ClassName=MCU Member=Component R2 10k
+Added Member To Class: ClassName=MCU Member=Component R3 0
+Added Member To Class: ClassName=MCU Member=Component R4 10k
+Added Member To Class: ClassName=MCU Member=Component R5 330
+Added Member To Class: ClassName=Can_Interface Member=Component R6 RC0603FR-07120RL
+Added Member To Class: ClassName=0 Member=Component R7_0 (R7) 340
+Added Member To Class: ClassName=1 Member=Component R7_1 (R7) 340
+Added Member To Class: ClassName=2 Member=Component R7_2 (R7) 340
+Added Member To Class: ClassName=3 Member=Component R7_3 (R7) 340
+Added Member To Class: ClassName=4 Member=Component R7_4 (R7) 340
+Added Member To Class: ClassName=5 Member=Component R7_5 (R7) 340
