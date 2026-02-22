@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=SWCLK Pin=J3-1
+Removed Pin From Net: NetName=SWDIO Pin=J3-2
+Removed Pin From Net: NetName=D+3.3V Pin=J3-4
+Removed Pin From Net: NetName=NRST Pin=J3-5
+Removed Pin From Net: NetName=CH0_IN_FLT Pin=U1-20
+Removed Pin From Net: NetName=CH1_IN_FLT Pin=U1-21
+Removed Pin From Net: NetName=CH2_IN_FLT Pin=U1-22
+Removed Pin From Net: NetName=CH3_IN_FLT Pin=U1-23
+Removed Pin From Net: NetName=CH4_IN_FLT Pin=U1-27
+Change Footprint: Footprint Not Found RESC1608X55X25LL10T15
+Change Footprint: Footprint Not Found RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R3 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1608X55X25LL10T15
+Change Footprint: Footprint Not Found FP-RC2012-IPC_A
+Change Component Footprint: Designator=R6 Old Footprint=RESC1608X55X25NL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Footprint: Footprint Not Found FP-TSW-106-22-G-S-MFG
+Change Component Comment : Designator=R6 Old Comment=RC0603FR-07120RL New Comment=120
+Change Component Comment : Designator=J3 Old Comment=TSW-105-05-G-S New Comment=61300511121
+Added Pin To Net: NetName=NRST Pin=J3-1
+Added Pin To Net: NetName=D+3.3V Pin=J3-2
+Added Pin To Net: NetName=SWDIO Pin=J3-4
+Added Pin To Net: NetName=SWCLK Pin=J3-5
+Added Pin To Net: NetName=CH1_IN_FLT Pin=U1-20
+Added Pin To Net: NetName=CH2_IN_FLT Pin=U1-21
+Added Pin To Net: NetName=CH3_IN_FLT Pin=U1-22
+Added Pin To Net: NetName=CH4_IN_FLT Pin=U1-23
+Added Pin To Net: NetName=CH0_IN_FLT Pin=U1-27

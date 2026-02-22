@@ -1,0 +1,12 @@
+Change Footprint: Footprint Not Found HDRV5W64P0X254_1X5_1270X254X854P
+Change Footprint: Footprint Not Found ERJP03_PA3_(0603)
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Added Pin To Net: NetName=CH1_IN_FLT Pin=U1-20
+Added Pin To Net: NetName=CH2_IN_FLT Pin=U1-21
+Added Pin To Net: NetName=CH3_IN_FLT Pin=U1-22
+Added Pin To Net: NetName=CH4_IN_FLT Pin=U1-23
