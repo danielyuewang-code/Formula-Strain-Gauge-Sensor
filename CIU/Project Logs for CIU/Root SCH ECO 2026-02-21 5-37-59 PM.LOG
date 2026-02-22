@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=R2 Old Footprint=FP-RC0603-0_55-IPC_C New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R4 Old Footprint=FP-RC0603-0_55-IPC_C New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R7 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R7 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R7 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R7 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R7 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R7 Old Footprint=RESC1608X55X25LL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R1 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R3 Old Footprint=RESC1608X55X25ML10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=R5 Old Footprint=RESC1608X55X25NL10T15 New Footprint=FP-RC2012-IPC_A
+Change Component Footprint: Designator=R6 Old Footprint=RESC1608X55X25NL10T15 New Footprint=RESC1608X55X25LL10T15
+Change Component Footprint: Designator=J3 Old Footprint=SMTC-TSW-105-05-X-S New Footprint=FP-TSW-106-22-G-S-MFG
+Change Component Footprint: Designator=D1 Old Footprint=SOD2513X120N New Footprint=SOD323-L_DIO
+Change Component Footprint: Designator=D1 Old Footprint=SOD2513X120N New Footprint=SOD323-L_DIO
+Change Component Footprint: Designator=D1 Old Footprint=SOD2513X120N New Footprint=SOD323-L_DIO
+Change Component Footprint: Designator=D1 Old Footprint=SOD2513X120N New Footprint=SOD323-L_DIO
+Change Component Footprint: Designator=D1 Old Footprint=SOD2513X120N New Footprint=SOD323-L_DIO
+Change Component Footprint: Designator=D1 Old Footprint=SOD2513X120N New Footprint=SOD323-L_DIO
+Change Component Comment: Designator=R6 Old Comment=RC0603FR-07120RL New Comment=120
+Change Component Comment: Designator=J3 Old Comment=TSW-105-05-G-S New Comment=61300511121
+Change Pin Designator/Name:  Old Designator=J3-1 Old Name=1 New Designator =5 New Name=5
+Change Pin Designator/Name:  Old Designator=J3-2 Old Name=2 New Designator =4 New Name=4
+Change Pin Designator/Name:  Old Designator=J3-4 Old Name=4 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=J3-5 Old Name=5 New Designator =1 New Name=1

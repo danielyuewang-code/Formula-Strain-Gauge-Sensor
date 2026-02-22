@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=CH0_IN_FLT Pin=U1-20
+Removed Pin From Net: NetName=CH1_IN_FLT Pin=U1-21
+Removed Pin From Net: NetName=CH2_IN_FLT Pin=U1-22
+Removed Pin From Net: NetName=CH3_IN_FLT Pin=U1-23
+Removed Pin From Net: NetName=CH4_IN_FLT Pin=U1-27
+Removed Member From Class: ClassName=0 Member=C11
+Removed Member From Class: ClassName=1 Member=C11
+Removed Member From Class: ClassName=2 Member=C11
+Removed Member From Class: ClassName=3 Member=C11
+Removed Member From Class: ClassName=5 Member=C11
+Removed Member From Class: ClassName=1 Member=D1
+Removed Member From Class: ClassName=2 Member=D1
+Removed Member From Class: ClassName=3 Member=D1
+Removed Member From Class: ClassName=4 Member=D1
+Removed Member From Class: ClassName=5 Member=D1
+Removed Member From Class: ClassName=0 Member=R7
+Removed Member From Class: ClassName=2 Member=R7
+Removed Member From Class: ClassName=3 Member=R7
+Removed Member From Class: ClassName=4 Member=R7
+Removed Member From Class: ClassName=5 Member=R7
+Change Footprint: Footprint Not Found HDRV5W64P0X254_1X5_1270X254X854P
+Change Footprint: Footprint Not Found ERJP03_PA3_(0603)
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Component Designator: OldDesignator=1 NewDesignator=J1_Designator1
+Change Component Designator: OldDesignator=2 NewDesignator=J1_Designator2
+Change Component Designator: OldDesignator=3 NewDesignator=J1_Designator3
+Change Component Designator: OldDesignator=4 NewDesignator=J1_Designator4
+Change Component Designator: OldDesignator=5 NewDesignator=J1_Designator5
+Change Component Designator: OldDesignator=6 NewDesignator=J1_Designator6
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_0
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_1
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_2
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_3
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_4
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_5
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_0
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_1
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_2
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_3
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_4
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_5
+Change Component Designator: OldDesignator=R7 NewDesignator=R7_0
+Change Component Designator: OldDesignator=R7 NewDesignator=R7_1
+Change Component Designator: OldDesignator=R7 NewDesignator=R7_2
+Change Component Designator: OldDesignator=R7 NewDesignator=R7_3
+Change Component Designator: OldDesignator=R7 NewDesignator=R7_4
+Change Component Designator: OldDesignator=R7 NewDesignator=R7_5
+Change Managed Component Library Link : Designator=C13 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=A7BF2B9F-B6D0-4CA1-AB40-BD7D0A15096A Old RevisionGUID= New RevisionGUID=3BE05E37-59DB-4726-8B4A-3AD5A882A63B
+Added Pin To Net: NetName=CH0_IN_FLT Pin=U1-27
+Added Member To Class: ClassName=0 Member=Component C11_0 (C11) Capacitor
+Added Member To Class: ClassName=1 Member=Component C11_1 (C11) Capacitor
+Added Member To Class: ClassName=2 Member=Component C11_2 (C11) Capacitor
+Added Member To Class: ClassName=3 Member=Component C11_3 (C11) Capacitor
+Added Member To Class: ClassName=5 Member=Component C11_5 (C11) Capacitor
+Added Member To Class: ClassName=Designator Member=Component C13 EEUHD1H471B
+Added Member To Class: ClassName=1 Member=Component D1_1 (D1) DESD5V0U1BA-7
+Added Member To Class: ClassName=2 Member=Component D1_2 (D1) DESD5V0U1BA-7
+Added Member To Class: ClassName=3 Member=Component D1_3 (D1) DESD5V0U1BA-7
+Added Member To Class: ClassName=4 Member=Component D1_4 (D1) DESD5V0U1BA-7
+Added Member To Class: ClassName=5 Member=Component D1_5 (D1) DESD5V0U1BA-7
+Added Member To Class: ClassName=0 Member=Component R7_0 (R7) 340
+Added Member To Class: ClassName=2 Member=Component R7_2 (R7) 340
+Added Member To Class: ClassName=3 Member=Component R7_3 (R7) 340
+Added Member To Class: ClassName=4 Member=Component R7_4 (R7) 340
+Added Member To Class: ClassName=5 Member=Component R7_5 (R7) 340
