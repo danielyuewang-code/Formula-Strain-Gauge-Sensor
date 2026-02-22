@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=CH0_IN_FLT Pin=U1-20
+Removed Pin From Net: NetName=CH5_IN_FLT Pin=U1-26
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Change Footprint: Footprint Not Found SOD2513X120N
+Added Pin To Net: NetName=CH5_IN_FLT Pin=U1-20
+Added Pin To Net: NetName=CH0_IN_FLT Pin=U1-26
