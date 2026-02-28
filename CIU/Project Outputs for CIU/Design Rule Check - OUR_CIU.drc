@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Formula-Strain-Gauge-Sensor\CIU\OUR_CIU.PcbDoc
 Date     : 2026-02-28
-Time     : 1:50:12 PM
+Time     : 1:57:42 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
    Violation between Clearance Constraint: (4.771mil < 8mil) Between Arc (3454.742mil,3041.605mil) on Top Layer And Pad R1-1(3438.994mil,3057.353mil) on Top Layer 
@@ -23,33 +23,11 @@ Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
    Violation between Clearance Constraint: (4.576mil < 8mil) Between Pad R1-1(3438.994mil,3057.353mil) on Top Layer And Track (3453.011mil,3025.677mil)(3461.156mil,3030.298mil) on Top Layer 
    Violation between Clearance Constraint: (4.771mil < 8mil) Between Pad R1-1(3438.994mil,3057.353mil) on Top Layer And Track (3461.156mil,3030.298mil)(3461.163mil,3030.302mil) on Top Layer 
    Violation between Clearance Constraint: (4.883mil < 8mil) Between Pad R1-1(3438.994mil,3057.353mil) on Top Layer And Track (3461.626mil,3030.577mil)(3487.301mil,3046.605mil) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 8mil) Between Polygon Arc (3140mil,3685mil) on Top Layer And Track (2435mil,3685mil)(3140mil,3685mil) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 8mil) Between Polygon Arc (3140mil,3685mil) on Top Layer And Track (2435mil,3685mil)(3140mil,3685mil) on Top Layer 
-   Violation between Clearance Constraint: (4.531mil < 8mil) Between Polygon Arc (3346.608mil,3110.953mil) on Top Layer And Track (3348.473mil,3110.953mil)(3480mil,3242.48mil) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 8mil) Between Polygon Arc (3346.608mil,3110.953mil) on Top Layer And Track (3348.473mil,3110.953mil)(3480mil,3242.48mil) on Top Layer 
-   Violation between Clearance Constraint: (0.765mil < 8mil) Between Polygon Arc (3480mil,3205mil) on Top Layer And Track (3348.473mil,3110.953mil)(3480mil,3242.48mil) on Top Layer 
-   Violation between Clearance Constraint: (0.765mil < 8mil) Between Polygon Arc (3480mil,3205mil) on Top Layer And Track (3348.473mil,3110.953mil)(3480mil,3242.48mil) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 8mil) Between Polygon Track (2047.606mil,3142.866mil)(2097.591mil,3142.866mil) on Top Layer And Track (2072.598mil,3111.181mil)(2072.598mil,3322.598mil) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 8mil) Between Polygon Track (3118mil,3295mil)(3118mil,3685mil) on Top Layer And Track (2435mil,3685mil)(3140mil,3685mil) on Top Layer 
-   Violation between Clearance Constraint: (1.595mil < 8mil) Between Polygon Track (3124.483mil,3700.595mil)(3154.916mil,3731.029mil) on Top Layer And Track (2435mil,3685mil)(3140mil,3685mil) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 8mil) Between Polygon Track (3452.252mil,3149.772mil)(3452.252mil,3205.268mil) on Top Layer And Track (3348.473mil,3110.953mil)(3480mil,3242.48mil) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 8mil) Between Polygon Track (3452.252mil,3205.268mil)(3463.002mil,3205.268mil) on Top Layer And Track (3348.473mil,3110.953mil)(3480mil,3242.48mil) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 8mil) Between Polygon Track (3452.252mil,3214.732mil)(3452.252mil,3270.228mil) on Top Layer And Track (3348.473mil,3110.953mil)(3480mil,3242.48mil) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 8mil) Between Polygon Track (3452.252mil,3214.732mil)(3466.061mil,3214.732mil) on Top Layer And Track (3348.473mil,3110.953mil)(3480mil,3242.48mil) on Top Layer 
-Rule Violations :32
+Rule Violations :19
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
    Violation between Short-Circuit Constraint: Between Pad C16-2(2414.528mil,3210mil) on Top Layer And Track (2425.472mil,3198.032mil)(2425.472mil,3200mil) on Top Layer Location : [X = 2422.831mil][Y = 3201.185mil]
-   Violation between Short-Circuit Constraint: Between Polygon Arc (3140mil,3685mil) on Top Layer And Track (2435mil,3685mil)(3140mil,3685mil) on Top Layer Location : [X = 3119.537mil][Y = 3688.004mil]
-   Violation between Short-Circuit Constraint: Between Polygon Arc (3140mil,3685mil) on Top Layer And Track (2435mil,3685mil)(3140mil,3685mil) on Top Layer Location : [X = 3119.537mil][Y = 3688.004mil]
-   Violation between Short-Circuit Constraint: Between Polygon Arc (3346.608mil,3110.953mil) on Top Layer And Track (3348.473mil,3110.953mil)(3480mil,3242.48mil) on Top Layer Location : [X = 3361.918mil][Y = 3124.317mil]
-   Violation between Short-Circuit Constraint: Between Polygon Track (2047.606mil,3142.866mil)(2097.591mil,3142.866mil) on Top Layer And Track (2072.598mil,3111.181mil)(2072.598mil,3322.598mil) on Top Layer Location : [X = 2072.598mil][Y = 3142.866mil]
-   Violation between Short-Circuit Constraint: Between Polygon Track (3118mil,3295mil)(3118mil,3685mil) on Top Layer And Track (2435mil,3685mil)(3140mil,3685mil) on Top Layer Location : [X = 3118mil][Y = 3681.996mil]
-   Violation between Short-Circuit Constraint: Between Polygon Track (3452.252mil,3149.772mil)(3452.252mil,3205.268mil) on Top Layer And Track (3348.473mil,3110.953mil)(3480mil,3242.48mil) on Top Layer Location : [X = 3450.973mil][Y = 3206.395mil]
-   Violation between Short-Circuit Constraint: Between Polygon Track (3452.252mil,3205.268mil)(3463.002mil,3205.268mil) on Top Layer And Track (3348.473mil,3110.953mil)(3480mil,3242.48mil) on Top Layer Location : [X = 3451.124mil][Y = 3206.546mil]
-   Violation between Short-Circuit Constraint: Between Polygon Track (3452.252mil,3214.732mil)(3452.252mil,3270.228mil) on Top Layer And Track (3348.473mil,3110.953mil)(3480mil,3242.48mil) on Top Layer Location : [X = 3452.252mil][Y = 3218.337mil]
-   Violation between Short-Circuit Constraint: Between Polygon Track (3452.252mil,3214.732mil)(3466.061mil,3214.732mil) on Top Layer And Track (3348.473mil,3110.953mil)(3480mil,3242.48mil) on Top Layer Location : [X = 3455.857mil][Y = 3214.732mil]
-Rule Violations :10
+Rule Violations :1
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Arc (1925mil,1760mil) on Top Layer Dead Copper - Net Not Assigned.
@@ -61,7 +39,6 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net GND Between Pad C13-1(2091.575mil,2680mil) on Multi-Layer And Pad U3-2(2110mil,3008.819mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C15-1(2908.425mil,3600mil) on Top Layer And Pad J3-2(3340mil,3665mil) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C16-2(2414.528mil,3210mil) on Top Layer And Pad C19-2(2415mil,3315mil) on Top Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C18-2(1979.528mil,3040mil) on Top Layer And Pad U3-2(2110mil,3008.819mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C5-1(3341.152mil,3401.426mil) on Top Layer And Pad C7-2(3678.72mil,3430mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C6-1(3335.472mil,3515mil) on Top Layer And Pad J3-2(3340mil,3665mil) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad R7-2(3683.284mil,3300mil) on Top Layer And Pad D1_0-1(3885mil,3295mil) on Top Layer 
@@ -84,7 +61,7 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Track (1925mil,3765mil)(4425mil,3765mil) on Top Layer Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Net +5 Between Track (2355.472mil,3210mil)(2355.709mil,3210.236mil) on Top Layer And Track (2425.472mil,3198.032mil)(2425.472mil,3200mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Track (4525mil,1760mil)(4525mil,3665mil) on Top Layer Dead Copper - Net Not Assigned.
-Rule Violations :32
+Rule Violations :31
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -450,6 +427,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 398
+Violations Detected : 375
 Waived Violations : 0
 Time Elapsed        : 00:00:01
