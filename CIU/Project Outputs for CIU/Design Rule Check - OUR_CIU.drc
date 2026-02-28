@@ -1,13 +1,12 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Formula-Strain-Gauge-Sensor\CIU\OUR_CIU.PcbDoc
 Date     : 2026-02-28
-Time     : 1:57:42 PM
+Time     : 2:00:11 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
    Violation between Clearance Constraint: (4.771mil < 8mil) Between Arc (3454.742mil,3041.605mil) on Top Layer And Pad R1-1(3438.994mil,3057.353mil) on Top Layer 
    Violation between Clearance Constraint: (4.772mil < 8mil) Between Arc (3454.742mil,3041.605mil) on Top Layer And Pad R1-1(3438.994mil,3057.353mil) on Top Layer 
    Violation between Clearance Constraint: (6.991mil < 8mil) Between Arc (3457.945mil,3016.979mil) on Top Layer And Pad R1-1(3438.994mil,3057.353mil) on Top Layer 
-   Violation between Clearance Constraint: (Collision < 8mil) Between Pad C16-2(2414.528mil,3210mil) on Top Layer And Track (2425.472mil,3198.032mil)(2425.472mil,3200mil) on Top Layer 
    Violation between Clearance Constraint: (2mil < 10mil) Between Pad D1_0-1(3885mil,3295mil) on Top Layer And Region (0 hole(s)) Keep-Out Layer 
    Violation between Clearance Constraint: (2mil < 10mil) Between Pad D1_0-2(3975mil,3295mil) on Top Layer And Region (0 hole(s)) Keep-Out Layer 
    Violation between Clearance Constraint: (2mil < 10mil) Between Pad D1_1-1(3950mil,2705mil) on Top Layer And Region (0 hole(s)) Keep-Out Layer 
@@ -23,11 +22,10 @@ Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
    Violation between Clearance Constraint: (4.576mil < 8mil) Between Pad R1-1(3438.994mil,3057.353mil) on Top Layer And Track (3453.011mil,3025.677mil)(3461.156mil,3030.298mil) on Top Layer 
    Violation between Clearance Constraint: (4.771mil < 8mil) Between Pad R1-1(3438.994mil,3057.353mil) on Top Layer And Track (3461.156mil,3030.298mil)(3461.163mil,3030.302mil) on Top Layer 
    Violation between Clearance Constraint: (4.883mil < 8mil) Between Pad R1-1(3438.994mil,3057.353mil) on Top Layer And Track (3461.626mil,3030.577mil)(3487.301mil,3046.605mil) on Top Layer 
-Rule Violations :19
+Rule Violations :18
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
-   Violation between Short-Circuit Constraint: Between Pad C16-2(2414.528mil,3210mil) on Top Layer And Track (2425.472mil,3198.032mil)(2425.472mil,3200mil) on Top Layer Location : [X = 2422.831mil][Y = 3201.185mil]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Arc (1925mil,1760mil) on Top Layer Dead Copper - Net Not Assigned.
@@ -38,7 +36,6 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Net GND Between Pad J1_Designator2-4(3273.11mil,2080.039mil) on Top Layer And Pad C11_4-2(3375mil,2275mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C13-1(2091.575mil,2680mil) on Multi-Layer And Pad U3-2(2110mil,3008.819mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C15-1(2908.425mil,3600mil) on Top Layer And Pad J3-2(3340mil,3665mil) on Multi-Layer 
-   Violation between Un-Routed Net Constraint: Net GND Between Pad C16-2(2414.528mil,3210mil) on Top Layer And Pad C19-2(2415mil,3315mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C5-1(3341.152mil,3401.426mil) on Top Layer And Pad C7-2(3678.72mil,3430mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad C6-1(3335.472mil,3515mil) on Top Layer And Pad J3-2(3340mil,3665mil) on Multi-Layer 
    Violation between Un-Routed Net Constraint: Net GND Between Pad R7-2(3683.284mil,3300mil) on Top Layer And Pad D1_0-1(3885mil,3295mil) on Top Layer 
@@ -59,9 +56,8 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Track (1825mil,1760mil)(1825mil,3665mil) on Top Layer Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Track (1925mil,1660mil)(4425mil,1660mil) on Top Layer Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Track (1925mil,3765mil)(4425mil,3765mil) on Top Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Net +5 Between Track (2355.472mil,3210mil)(2355.709mil,3210.236mil) on Top Layer And Track (2425.472mil,3198.032mil)(2425.472mil,3200mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Track (4525mil,1760mil)(4525mil,3665mil) on Top Layer Dead Copper - Net Not Assigned.
-Rule Violations :31
+Rule Violations :29
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -398,10 +394,8 @@ Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
 Rule Violations :172
 
 Processing Rule : Net Antennae (Tolerance=0mil) (All)
-   Violation between Net Antennae: Track (2425.472mil,3198.032mil)(2425.472mil,3200mil) on Top Layer 
-   Violation between Net Antennae: Track (2425.472mil,3198.032mil)(2425.472mil,3200mil) on Top Layer 
    Violation between Net Antennae: Track (3815mil,2759.142mil)(3815mil,3329.694mil) on Bottom Layer 
-Rule Violations :3
+Rule Violations :1
 
 Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
    Violation between Board Outline Clearance(Outline Edge): (Collision < 20mil) Between Arc (1925mil,1760mil) on Top Layer And Board Edge 
@@ -427,6 +421,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 375
+Violations Detected : 369
 Waived Violations : 0
 Time Elapsed        : 00:00:01

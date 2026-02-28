@@ -501,6 +501,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for CIU\CIU.REP
 DItemRevisionGUID=
 
+[GeneratedDocument20]
+DocumentPath=Project Outputs for CIU\Design Rule Check - OUR_CIU.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
