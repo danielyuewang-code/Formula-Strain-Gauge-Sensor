@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=CH1_IN_FLT Pin=U1-21
+Removed Pin From Net: NetName=CH2_IN_FLT Pin=U1-22
+Removed Pin From Net: NetName=CH3_IN_FLT Pin=U1-23
+Removed Pin From Net: NetName=CH0_IN_FLT Pin=U1-26
+Removed Pin From Net: NetName=CH4_IN_FLT Pin=U1-27
+Removed Pin From Net: NetName=extra Pin=U1-41
+Removed Pin From Net: NetName=extra Pin=U1-42
+Removed Pin From Net: NetName=extra Pin=U1-43
+Removed Pin From Net: NetName=extra Pin=U1-44
+Removed Pin From Net: NetName=extra Pin=U1-45
+Removed Member From Class: ClassName=MCU Member=R8_5
+Added Pin To Net: NetName=CH4_IN_FLT Pin=U1-21
+Added Pin To Net: NetName=CH3_IN_FLT Pin=U1-22
+Added Pin To Net: NetName=CH2_IN_FLT Pin=U1-23
+Added Pin To Net: NetName=CH1_IN_FLT Pin=U1-26
+Added Pin To Net: NetName=CH0_IN_FLT Pin=U1-27
+Added Member To Class: ClassName=Designator5 Member=Component J1_Designator5 (J1) SM04B-PASS-TBT(LF)(SN)
+Added Member To Class: ClassName=MCU Member=Component R7 10k
