@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CH2_IN_FLT Pin=U1-22
+Removed Pin From Net: NetName=CH3_IN_FLT Pin=U1-23
+Added Pin To Net: NetName=CH3_IN_FLT Pin=U1-22
+Added Pin To Net: NetName=CH2_IN_FLT Pin=U1-23
