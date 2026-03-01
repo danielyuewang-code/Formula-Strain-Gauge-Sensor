@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\Public\Documents\Altium\Formula-Strain-Gauge-Sensor\CIU\OUR_CIU.PcbDoc
 Date     : 2026-02-28
-Time     : 6:32:11 PM
+Time     : 7:03:28 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
    Violation between Clearance Constraint: (2mil < 10mil) Between Pad -1(2850mil,2280mil) on Top Layer And Region (0 hole(s)) Keep-Out Layer 
@@ -26,7 +26,6 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Arc (1925mil,3645mil) on Top Layer Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Arc (4425mil,1760mil) on Top Layer Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Arc (4425mil,3665mil) on Top Layer Dead Copper - Net Not Assigned.
-   Violation between Un-Routed Net Constraint: Net GND Between Pad 5-4(4095mil,2978.071mil) on Top Layer And Track (4260.158mil,3080.63mil)(4270.197mil,3070.59mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net extra Between Pad U1-15(3346.496mil,2582.047mil) on Top Layer And Pad U1-14(3346.496mil,2601.732mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net extra Between Pad U1-16(3346.496mil,2562.362mil) on Top Layer And Pad U1-15(3346.496mil,2582.047mil) on Top Layer 
    Violation between Un-Routed Net Constraint: Net extra Between Pad U1-16(3346.496mil,2562.362mil) on Top Layer And Pad U1-17(3417.362mil,2491.496mil) on Top Layer 
@@ -34,7 +33,7 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
    Violation between Un-Routed Net Constraint: Track (1925mil,1660mil)(4425mil,1660mil) on Top Layer Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Track (1925mil,3765mil)(4425mil,3765mil) on Top Layer Dead Copper - Net Not Assigned.
    Violation between Un-Routed Net Constraint: Track (4525mil,1760mil)(4525mil,3665mil) on Top Layer Dead Copper - Net Not Assigned.
-Rule Violations :12
+Rule Violations :11
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -89,6 +88,6 @@ Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (
 Rule Violations :0
 
 
-Violations Detected : 37
+Violations Detected : 36
 Waived Violations : 0
 Time Elapsed        : 00:00:01
