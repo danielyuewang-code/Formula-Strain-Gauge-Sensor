@@ -1,0 +1,39 @@
+Removed Member From Class: ClassName=0 Member=C11
+Removed Member From Class: ClassName=1 Member=C11
+Removed Member From Class: ClassName=2 Member=C11
+Removed Member From Class: ClassName=3 Member=C11
+Removed Member From Class: ClassName=1 Member=D1
+Removed Member From Class: ClassName=3 Member=D1
+Removed Member From Class: ClassName=5 Member=D1
+Removed Member From Class: ClassName=3 Member=R8_1
+Removed Member From Class: ClassName=0 Member=R8
+Removed Member From Class: ClassName=2 Member=R8
+Change Component Designator: OldDesignator=1 NewDesignator=J1_Designator1
+Change Component Designator: OldDesignator=2 NewDesignator=J1_Designator2
+Change Component Designator: OldDesignator=3 NewDesignator=J1_Designator3
+Change Component Designator: OldDesignator=4 NewDesignator=J1_Designator4
+Change Component Designator: OldDesignator=5 NewDesignator=J1_Designator5
+Change Component Designator: OldDesignator=6 NewDesignator=J1_Designator6
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_0
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_1
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_2
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_3
+Change Component Designator: OldDesignator=C11 NewDesignator=C11_5
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_0
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_1
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_3
+Change Component Designator: OldDesignator=D1 NewDesignator=D1_5
+Change Component Designator: OldDesignator=R8 NewDesignator=R8_0
+Change Component Designator: OldDesignator=R8 NewDesignator=R8_2
+Change Component Designator: OldDesignator=R8 NewDesignator=R8_3
+Change Component Designator: OldDesignator=R8 NewDesignator=R8_5
+Added Member To Class: ClassName=0 Member=Component C11_0 (C11) Capacitor
+Added Member To Class: ClassName=1 Member=Component C11_1 (C11) Capacitor
+Added Member To Class: ClassName=2 Member=Component C11_2 (C11) Capacitor
+Added Member To Class: ClassName=3 Member=Component C11_3 (C11) Capacitor
+Added Member To Class: ClassName=1 Member=Component D1_1 (D1) SC1103C-01UTG
+Added Member To Class: ClassName=3 Member=Component D1_3 (D1) SC1103C-01UTG
+Added Member To Class: ClassName=5 Member=Component D1_5 (D1) SC1103C-01UTG
+Added Member To Class: ClassName=0 Member=Component R8_0 (R8) 340
+Added Member To Class: ClassName=2 Member=Component R8_2 (R8) 340
+Added Member To Class: ClassName=3 Member=Component R8_3 (R8) 340
