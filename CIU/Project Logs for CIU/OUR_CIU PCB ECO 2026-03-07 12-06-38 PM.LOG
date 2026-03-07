@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetD3_1 Pin=L1-1
+Removed Pin From Net: NetName=+5 Pin=L1-2
+Removed Member From Class: ClassName=3 Member=C11_2
+Removed Member From Class: ClassName=0 Member=D1_3
+Removed Member From Class: ClassName=Designator Member=L1
+Removed Member From Class: ClassName=5 Member=R8_2
+Change Component Designator: OldDesignator=6_Designator1 NewDesignator=J1_Designator1
+Change Component Designator: OldDesignator=6_Designator2 NewDesignator=J1_Designator2
+Change Component Designator: OldDesignator=6_Designator3 NewDesignator=J1_Designator3
+Change Component Designator: OldDesignator=6_Designator4 NewDesignator=J1_Designator4
+Change Component Designator: OldDesignator=6_Designator5 NewDesignator=J1_Designator5
+Change Component Designator: OldDesignator=6_Designator6 NewDesignator=J1_Designator6
+Added Component: Designator=L?(SRR1260101M)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SRR1260-101M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/srr1260-101m/bourns?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/SRR1260-101M.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SRR1260-101M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-SRR1260-101M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Bourns/SRR1260-101M?qs=uD%2FoUDWqfvQozr%2Ff4%252BPuSQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_1 Pin=L?-1
+Added Pin To Net: NetName=+5 Pin=L?-2
+Added Member To Class: ClassName=3 Member=Component C11_3 (C11) Capacitor
+Added Member To Class: ClassName=0 Member=Component D1_0 (D1) SC1103C-01UTG
+Added Member To Class: ClassName=Designator Member=Component L? SRR1260-101M
+Added Member To Class: ClassName=5 Member=Component R8_5 (R8) 340
