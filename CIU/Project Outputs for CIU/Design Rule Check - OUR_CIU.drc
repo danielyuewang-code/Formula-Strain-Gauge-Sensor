@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
-PCB File : C:\Users\danie\Formula UBC\2026 Car\Strain Gauge\Github\Formula-Strain-Gauge-Sensor\CIU\OUR_CIU.PcbDoc
-Date     : 2026-03-18
-Time     : 9:18:15 PM
+PCB File : C:\Users\Public\Documents\Altium\Formula-Strain-Gauge-Sensor\CIU\OUR_CIU.PcbDoc
+Date     : 2026-03-21
+Time     : 12:15:43 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -34,13 +34,13 @@ Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
 Processing Rule : Minimum Solder Mask Sliver (Gap=5mil) (All),(All)
-   Violation between Minimum Solder Mask Sliver Constraint: (3.59mil < 5mil) Between Pad U4-2(2142.599mil,3167.244mil) on Signal And Via (2175mil,3150mil) from Signal to Bottom Ground [Top Solder] Mask Sliver [3.59mil]
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (4.472mil < 10mil) Between Pad C5-2(3157.852mil,2850mil) on Signal And Text "C13" (3052.718mil,2834.499mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.472mil]
    Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad L?-1(2205mil,2509.055mil) on Signal And Track (1958.937mil,2453.937mil)(2086.89mil,2453.937mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
    Violation between Silk To Solder Mask Clearance Constraint: (9.532mil < 10mil) Between Pad U1-32(3747.638mil,2471.496mil) on Signal And Track (3761.535mil,2428.465mil)(3828.465mil,2428.465mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.532mil]
-Rule Violations :2
+Rule Violations :3
 
 Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
 Rule Violations :0
